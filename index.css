@@ -1,9 +1,7 @@
-h1 {
-  color: red;
-  text-align: center;
-}
-
 li {
   background-color: aqua;
   list-style-type: square;
+}
+h1{
+    color: blue;
 }
